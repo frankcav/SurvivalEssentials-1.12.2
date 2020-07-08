@@ -1,0 +1,36 @@
+{
+
+    "type": "minecraft:crafting_shaped",
+
+    "pattern": [
+
+        "CCC",
+
+        "C C",
+        
+        "   "
+
+    ],
+
+    "key": {
+
+        "C": {
+
+            "item": "survivalessentials:fire_iron"
+            
+            }
+            },
+
+        
+
+        
+
+   
+
+    "result": {
+
+        "item": "survivalessentials:fih"
+
+    }
+
+}

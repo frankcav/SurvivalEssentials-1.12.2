@@ -1,0 +1,41 @@
+{
+
+    "type": "minecraft:crafting_shaped",
+
+    "pattern": [
+
+        "CC ",
+
+        " B ",
+        
+        " B "
+
+    ],
+
+    "key": {
+
+        "C": {
+
+            "item": "minecraft:emerald"
+            
+            },
+
+        "B": {
+
+            "item": "survivalessentials:iron_rod"
+
+        }
+
+        },
+
+        
+
+   
+
+    "result": {
+
+        "item": "survivalessentials:emerald_hoe"
+
+    }
+
+}

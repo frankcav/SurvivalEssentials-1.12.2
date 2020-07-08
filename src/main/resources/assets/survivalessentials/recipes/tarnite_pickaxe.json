@@ -1,0 +1,41 @@
+{
+
+    "type": "minecraft:crafting_shaped",
+
+    "pattern": [
+
+        "CCC",
+
+        " B ",
+        
+        " B "
+
+    ],
+
+    "key": {
+
+        "C": {
+
+            "item": "survivalessentials:tarnite_ingot"
+            
+            },
+
+        "B": {
+
+            "item": "minecraft:stick"
+
+        }
+
+        },
+
+        
+
+   
+
+    "result": {
+
+        "item": "survivalessentials:tarnite_pickaxe"
+
+    }
+
+}

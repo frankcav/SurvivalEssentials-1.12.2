@@ -1,0 +1,42 @@
+{
+
+    "type": "minecraft:crafting_shaped",
+
+    "pattern": [
+
+        "CBC",
+
+        "CBC",
+        
+        "CBC"
+
+    ],
+
+    "key": {
+
+        "C": {
+
+            "item": "minecraft:iron_ingot"
+            
+            },
+
+        "B": {
+
+            "item": "survivalessentials:iron_rod"
+
+        }
+
+        },
+
+        
+
+   
+
+    "result": {
+
+        "item": "survivalessentials:reinforced_iron_rod",
+        "count": 2
+
+    }
+
+}

@@ -1,0 +1,41 @@
+{
+
+    "type": "minecraft:crafting_shaped",
+
+    "pattern": [
+
+        "C  ",
+
+        " C ",
+        
+        " B "
+
+    ],
+
+    "key": {
+
+        "C": {
+
+            "item": "survivalessentials:fire_iron"
+            
+            },
+
+        "B": {
+
+            "item": "survivalessentials:iron_rod"
+
+        }
+
+        },
+
+        
+
+   
+
+    "result": {
+
+        "item": "survivalessentials:fire_cutlass"
+
+    }
+
+}

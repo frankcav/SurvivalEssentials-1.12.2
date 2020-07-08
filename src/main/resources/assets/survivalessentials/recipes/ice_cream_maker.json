@@ -1,0 +1,47 @@
+{
+
+    "type": "minecraft:crafting_shaped",
+
+    "pattern": [
+
+        "ABA",
+
+        "ACA",
+        
+        "AAA"
+
+    ],
+
+    "key": {
+
+        "C": {
+
+            "item": "minecraft:packed_ice"
+            
+            },
+            
+            "A": {
+
+            "item": "survivalessentials:aluminum_ingot"
+            
+            },
+
+        "B": {
+
+            "item": "survivalessentials:cobalt_chunk"
+
+        }
+
+        },
+
+        
+
+   
+
+    "result": {
+
+        "item": "survivalessentials:icecreammaker"
+        
+    }
+
+}

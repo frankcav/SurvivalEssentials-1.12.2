@@ -1,0 +1,8 @@
+To make panel:
+
+1) paint.net
+2) make boxes, one inside the other, each with a difference of 10 in value. inside boxes are lighter
+3) blurs -> fragment
+4) fragment count = 8
+5) distance = 5
+6) rotation = 121.61

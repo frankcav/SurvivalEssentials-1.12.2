@@ -1,0 +1,49 @@
+{
+
+    "type": "minecraft:crafting_shaped",
+
+    "pattern": [
+
+        "CCC",
+
+        "ABA",
+        
+        "CAC"
+
+    ],
+
+    "key": {
+
+        "C": {
+
+            "item": "minecraft:iron_ingot"
+            
+            },
+
+        "B": {
+
+            "item": "minecraft:gunpowder"
+
+        
+
+        },
+         "A": {
+
+            "item": "survivalessentials:euronium_chunk"
+
+        }
+
+        },
+
+        
+
+   
+
+    "result": {
+
+        "item": "survivalessentials:mbs",
+        "count": 8
+
+    }
+
+}

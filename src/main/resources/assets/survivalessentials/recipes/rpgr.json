@@ -1,0 +1,49 @@
+{
+
+    "type": "minecraft:crafting_shaped",
+
+    "pattern": [
+
+        " AA",
+
+        "CBC",
+        
+        "CC "
+
+    ],
+
+    "key": {
+
+        "A": {
+
+            "item": "minecraft:iron_ingot"
+            
+            },
+
+        "B": {
+
+            "item": "minecraft:gunpowder"
+
+        
+
+        },
+         "C": {
+
+            "item": "survivalessentials:titanium_ingot"
+
+        }
+
+        },
+
+        
+
+   
+
+    "result": {
+
+        "item": "survivalessentials:rpgr",
+        "count": 1
+
+    }
+
+}

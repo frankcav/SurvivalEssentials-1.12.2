@@ -1,0 +1,41 @@
+{
+
+    "type": "minecraft:crafting_shaped",
+
+    "pattern": [
+
+        "CCC",
+
+        "CBC",
+        
+        " B "
+
+    ],
+
+    "key": {
+
+        "C": {
+
+            "item": "minecraft:gold_ingot"
+            
+            },
+
+        "B": {
+
+            "item": "survivalessentials:iron_rod"
+
+        }
+
+        },
+
+        
+
+   
+
+    "result": {
+
+        "item": "survivalessentials:gold_warhammer"
+
+    }
+
+}

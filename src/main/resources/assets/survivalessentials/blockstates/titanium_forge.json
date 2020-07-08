@@ -1,0 +1,23 @@
+{
+
+    "variants": {
+
+        "burning=false,facing=north": { "model": "survivalessentials:titanium_forge" },
+
+        "burning=false,facing=south": { "model": "survivalessentials:titanium_forge", "y": 180 },
+
+        "burning=false,facing=west":  { "model": "survivalessentials:titanium_forge", "y": 270 },
+
+        "burning=false,facing=east":  { "model": "survivalessentials:titanium_forge", "y": 90 },
+
+        "burning=true,facing=north": { "model": "survivalessentials:on_titanium_forge" },
+
+        "burning=true,facing=south": { "model": "survivalessentials:on_titanium_forge", "y": 180 },
+
+        "burning=true,facing=west":  { "model": "survivalessentials:on_titanium_forge", "y": 270 },
+
+        "burning=true,facing=east":  { "model": "survivalessentials:on_titanium_forge", "y": 90 }
+
+    }
+
+}

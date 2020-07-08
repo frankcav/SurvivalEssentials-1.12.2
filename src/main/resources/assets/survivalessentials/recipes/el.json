@@ -1,0 +1,36 @@
+{
+
+    "type": "minecraft:crafting_shaped",
+
+    "pattern": [
+
+        "CCC",
+
+        "C C",
+        
+        "C C"
+
+    ],
+
+    "key": {
+
+        "C": {
+
+            "item": "minecraft:emerald"
+            
+            }
+            },
+
+        
+
+        
+
+   
+
+    "result": {
+
+        "item": "survivalessentials:el"
+
+    }
+
+}

@@ -1,0 +1,47 @@
+{
+
+    "type": "minecraft:crafting_shaped",
+
+    "pattern": [
+
+        "ACA",
+
+        "BBB",
+        
+        "ACA"
+
+    ],
+
+    "key": {
+
+        "C": {
+
+            "item": "minecraft:egg"
+            
+            },
+            
+            "A": {
+
+            "item": "minecraft:wheat"
+            
+            },
+
+        "B": {
+
+            "item": "minecraft:milk_bucket"
+
+        }
+
+        },
+
+        
+
+   
+
+    "result": {
+
+        "item": "survivalessentials:waffle_mix",
+        "count": 4
+    }
+
+}

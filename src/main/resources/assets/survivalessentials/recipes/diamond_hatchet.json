@@ -1,0 +1,41 @@
+{
+
+    "type": "minecraft:crafting_shaped",
+
+    "pattern": [
+
+        "C  ",
+
+        "CB ",
+        
+        " B "
+
+    ],
+
+    "key": {
+
+        "C": {
+
+            "item": "minecraft:diamond"
+            
+            },
+
+        "B": {
+
+            "item": "survivalessentials:iron_rod"
+
+        }
+
+        },
+
+        
+
+   
+
+    "result": {
+
+        "item": "survivalessentials:diamond_hatchet"
+
+    }
+
+}

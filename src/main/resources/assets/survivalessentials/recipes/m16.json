@@ -1,0 +1,41 @@
+{
+
+    "type": "minecraft:crafting_shaped",
+
+    "pattern": [
+
+        "  C",
+
+        " BC",
+        
+        "CC "
+
+    ],
+
+    "key": {
+
+        "C": {
+
+            "item": "minecraft:iron_ingot"
+            
+            },
+
+        "B": {
+
+            "item": "survivalessentials:euronium_chunk"
+
+        }
+
+        },
+
+        
+
+   
+
+    "result": {
+
+        "item": "survivalessentials:m16"
+
+    }
+
+}

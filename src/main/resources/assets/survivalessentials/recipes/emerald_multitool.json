@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "survivalessentials:emerald_pickaxe"
+    },
+    {
+      "item": "survivalessentials:emerald_hoe"
+    },
+    {
+      "item": "survivalessentials:emerald_shovel"
+    },
+    {
+      "item": "survivalessentials:emerald_axe"
+    }
+  ],
+  "result": {
+    "item": "survivalessentials:emerald_multitool"
+  }
+}

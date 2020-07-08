@@ -1,0 +1,41 @@
+{
+
+    "type": "minecraft:crafting_shaped",
+
+    "pattern": [
+
+        "CC ",
+
+        "CB ",
+        
+        " B "
+
+    ],
+
+    "key": {
+
+        "C": {
+
+            "item": "survivalessentials:azurite_ingot"
+            
+            },
+
+        "B": {
+
+            "item": "survivalessentials:iron_rod"
+
+        }
+
+        },
+
+        
+
+   
+
+    "result": {
+
+        "item": "survivalessentials:azurite_axe"
+
+    }
+
+}

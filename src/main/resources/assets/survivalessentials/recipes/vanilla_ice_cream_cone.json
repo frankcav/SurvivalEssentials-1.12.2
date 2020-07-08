@@ -1,0 +1,15 @@
+{
+    "type": "forge:ore_shapeless",
+    "ingredients" :  [
+    {
+        "item": "survivalessentials:cone"
+        },
+        {
+        "type": "forge:ore_dict",
+        "ore": "vanilla_ice_cream"
+        }
+        ],
+        "result": {
+        "item": "survivalessentials:vanilla_ice_cream_cone"
+        }
+        }

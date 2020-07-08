@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "survivalessentials:fire_pickaxe"
+    },
+    {
+      "item": "survivalessentials:fire_hoe"
+    },
+    {
+      "item": "survivalessentials:fire_shovel"
+    },
+    {
+      "item": "survivalessentials:fire_axe"
+    }
+  ],
+  "result": {
+    "item": "survivalessentials:fire_multitool"
+  }
+}

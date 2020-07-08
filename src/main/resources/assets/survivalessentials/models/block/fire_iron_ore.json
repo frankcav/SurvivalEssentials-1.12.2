@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "survivalessentials:block/fire_iron_ore"
+    }
+}

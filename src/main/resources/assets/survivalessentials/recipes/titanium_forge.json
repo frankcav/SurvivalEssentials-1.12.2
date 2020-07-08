@@ -1,0 +1,47 @@
+{
+
+    "type": "minecraft:crafting_shaped",
+
+    "pattern": [
+
+        "CCC",
+
+        "A A",
+        
+        "ABA"
+
+    ],
+
+    "key": {
+
+        "C": {
+
+            "item": "minecraft:iron_ingot"
+            
+            },
+            
+            "A": {
+
+            "item": "survivalessentials:titanium_block"
+            
+            },
+
+        "B": {
+
+            "item": "survivalessentials:fire_iron"
+
+        }
+
+        },
+
+        
+
+   
+
+    "result": {
+
+        "item": "survivalessentials:titanium_forge"
+        
+    }
+
+}

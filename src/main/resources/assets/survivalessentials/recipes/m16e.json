@@ -1,0 +1,41 @@
+{
+
+    "type": "minecraft:crafting_shaped",
+
+    "pattern": [
+
+        "CCC",
+
+        "CBC",
+        
+        "CCC"
+
+    ],
+
+    "key": {
+
+        "C": {
+
+            "item": "survivalessentials:euronium_chunk"
+            
+            },
+
+        "B": {
+
+            "item": "survivalessentials:m16r"
+
+        }
+
+        },
+
+        
+
+   
+
+    "result": {
+
+        "item": "survivalessentials:m16e"
+
+    }
+
+}

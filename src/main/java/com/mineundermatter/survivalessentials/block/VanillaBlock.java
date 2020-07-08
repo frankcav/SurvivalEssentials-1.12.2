@@ -1,0 +1,103 @@
+package com.mineundermatter.survivalessentials.block;
+
+
+
+import com.mineundermatter.survivalessentials.init.EssentialItems;
+
+import net.minecraft.block.BlockCrops;
+
+import net.minecraft.block.state.IBlockState;
+
+import net.minecraft.entity.item.EntityItem;
+
+import net.minecraft.entity.player.EntityPlayer;
+
+import net.minecraft.item.Item;
+
+import net.minecraft.item.ItemStack;
+
+import net.minecraft.util.EnumFacing;
+
+import net.minecraft.util.EnumHand;
+
+import net.minecraft.util.math.AxisAlignedBB;
+
+import net.minecraft.util.math.BlockPos;
+
+import net.minecraft.world.IBlockAccess;
+
+import net.minecraft.world.World;
+
+
+
+public class VanillaBlock extends BlockCrops{
+
+	
+
+	private static final AxisAlignedBB[] vanilla = new AxisAlignedBB[] {new AxisAlignedBB(0.0D, 0.0D, 0.0D, 1.0D, 0.125D, 1.0D), new AxisAlignedBB(0.0D, 0.0D, 0.0D, 1.0D, 0.25D, 1.0D), new AxisAlignedBB(0.0D, 0.0D, 0.0D, 1.0D, 0.375D, 1.0D), new AxisAlignedBB(0.0D, 0.0D, 0.0D, 1.0D, 0.5625D, 1.0D), new AxisAlignedBB(0.0D, 0.0D, 0.0D, 1.0D, 0.8125D, 1.0D), new AxisAlignedBB(0.0D, 0.0D, 0.0D, 1.0D, 1.0D, 1.0D), new AxisAlignedBB(0.0D, 0.0D, 0.0D, 1.0D, 1.0D, 1.0D), new AxisAlignedBB(0.0D, 0.0D, 0.0D, 1.0D, 1.0D, 1.0D)};
+
+	
+
+	public VanillaBlock() {
+
+		
+
+	}
+
+	
+
+	@Override
+
+	public boolean onBlockActivated(World worldIn, BlockPos pos, IBlockState state, EntityPlayer playerIn, EnumHand hand, EnumFacing side, float hitX, float hitY, float hitZ) {
+
+		if(!worldIn.isRemote) {
+
+			if(this.isMaxAge(state)) {
+
+				EntityItem item = new EntityItem(worldIn, pos.getX(), pos.getY(), pos.getZ(), new ItemStack(EssentialItems.vanilla, 2));
+
+				worldIn.spawnEntity(item);
+
+				worldIn.setBlockState(pos, this.withAge(7));
+
+				return true;
+
+			}
+
+		}
+
+		return false;
+
+	}
+
+	
+
+	@Override
+
+	protected Item getSeed() {
+
+		return EssentialItems.vanilla_seeds;
+
+	}
+
+	
+
+	@Override
+
+	protected Item getCrop() {
+
+		return EssentialItems.vanilla;
+
+	}
+
+	
+
+	@Override
+
+	public AxisAlignedBB getBoundingBox(IBlockState state, IBlockAccess source, BlockPos pos) {
+
+		return vanilla[((Integer)state.getValue(this.getAgeProperty())).intValue()];
+
+	}
+
+}

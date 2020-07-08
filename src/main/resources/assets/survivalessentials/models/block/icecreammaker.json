@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "survivalessentials:block/icereammaker_top",
+        "front": "survivalessentials:block/icecreammaker",
+        "side": "survivalessentials:block/icecreammaker_side"
+    }
+}

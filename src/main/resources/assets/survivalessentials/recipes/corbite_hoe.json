@@ -1,0 +1,41 @@
+{
+
+    "type": "minecraft:crafting_shaped",
+
+    "pattern": [
+
+        "CC ",
+
+        " B ",
+        
+        " B "
+
+    ],
+
+    "key": {
+
+        "C": {
+
+            "item": "survivalessentials:corbite_ingot"
+            
+            },
+
+        "B": {
+
+            "item": "minecraft:stick"
+
+        }
+
+        },
+
+        
+
+   
+
+    "result": {
+
+        "item": "survivalessentials:corbite_hoe"
+
+    }
+
+}

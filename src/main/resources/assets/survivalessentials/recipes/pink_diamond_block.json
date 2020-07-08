@@ -1,0 +1,35 @@
+{
+
+    "type": "minecraft:crafting_shaped",
+
+    "pattern": [
+
+        "CCC",
+
+        "CCC",
+        
+        "CCC"
+
+    ],
+
+    "key": {
+
+        "C": {
+
+            "item": "survivalessentials:pink_diamond"
+            
+            }
+
+        },
+
+        
+
+   
+
+    "result": {
+
+        "item": "survivalessentials:pink_diamond_block"
+        
+    }
+
+}

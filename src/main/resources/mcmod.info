@@ -1,0 +1,16 @@
+[
+{
+  "modid": "survivalessentials",
+  "name": "Survival Essentials",
+  "description": "Base mod for the MatterPack survival pack.",
+  "version": "1.0.6",
+  "mcversion": "1.12",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MineUnderMatter"],
+  "credits": "Myself and my fans.",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": ["mod_MinecraftForge"]
+}
+]

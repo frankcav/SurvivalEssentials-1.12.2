@@ -1,0 +1,12 @@
+{
+
+    "parent": "item/handheld",
+
+    "textures": {
+
+        "layer0": "survivalessentials:items/fire_axe"
+
+    
+    
+    }
+}

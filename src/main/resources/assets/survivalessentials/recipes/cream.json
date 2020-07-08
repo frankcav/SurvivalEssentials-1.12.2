@@ -1,0 +1,43 @@
+{
+
+    "type": "minecraft:crafting_shaped",
+
+    "pattern": [
+
+        " B ",
+
+        " B ",
+        
+        " C "
+
+    ],
+
+    "key": {
+
+        "C": {
+
+            "item": "minecraft:egg"
+            
+            },
+            
+            
+
+        "B": {
+
+            "item": "minecraft:milk_bucket"
+
+        }
+
+        },
+
+        
+
+   
+
+    "result": {
+
+        "item": "survivalessentials:cream",
+        "count": 3
+    }
+
+}

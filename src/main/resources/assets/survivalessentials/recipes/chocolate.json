@@ -1,0 +1,38 @@
+{
+
+    "type": "minecraft:crafting_shaped",
+
+    "pattern": [
+
+        "BCB"
+
+    ],
+
+    "key": {
+
+        "C": {
+
+            "item": "minecraft:milk_bucket"
+            
+            },
+
+        "B": {
+
+            "item": "minecraft:dye",
+            "data": 3
+
+        }
+
+        },
+
+        
+
+   
+
+    "result": {
+
+        "item": "survivalessentials:chocolate"
+
+    }
+
+}

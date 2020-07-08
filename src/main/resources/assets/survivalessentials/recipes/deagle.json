@@ -1,0 +1,40 @@
+{
+
+    "type": "minecraft:crafting_shaped",
+
+    "pattern": [
+
+
+        "BBB",
+        
+        "C  "
+
+    ],
+
+    "key": {
+
+        "C": {
+
+            "item": "minecraft:leather"
+            
+            },
+
+        "B": {
+
+            "item": "survivalessentials:titanium_ingot"
+
+        }
+
+        },
+
+        
+
+   
+
+    "result": {
+
+        "item": "survivalessentials:deagle"
+
+    }
+
+}

@@ -1,0 +1,34 @@
+{
+
+    "type": "minecraft:crafting_shaped",
+
+    "pattern": [
+
+        "C",
+
+        "C"
+
+    ],
+
+    "key": {
+
+        "C": {
+
+            "item": "minecraft:iron_ingot"
+            
+            }
+
+        },
+
+        
+
+   
+
+    "result": {
+
+        "item": "survivalessentials:iron_rod",
+        "count": 4
+
+    }
+
+}

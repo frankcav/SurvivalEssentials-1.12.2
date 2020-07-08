@@ -1,0 +1,41 @@
+{
+
+    "type": "minecraft:crafting_shaped",
+
+    "pattern": [
+
+        "CC ",
+
+        " B ",
+        
+        " B "
+
+    ],
+
+    "key": {
+
+        "C": {
+
+            "item": "survivalessentials:corceon_ingot"
+            
+            },
+
+        "B": {
+
+            "item": "minecraft:stick"
+
+        }
+
+        },
+
+        
+
+   
+
+    "result": {
+
+        "item": "survivalessentials:corceon_hoe"
+
+    }
+
+}

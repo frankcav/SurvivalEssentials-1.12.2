@@ -1,0 +1,47 @@
+{
+
+    "type": "minecraft:crafting_shaped",
+
+    "pattern": [
+
+        "CCC",
+
+        "ABA",
+        
+        "AAA"
+
+    ],
+
+    "key": {
+
+        "C": {
+
+            "item": "minecraft:iron_ingot"
+            
+            },
+            
+            "A": {
+
+            "item": "survivalessentials:aluminum_ingot"
+            
+            },
+
+        "B": {
+
+            "item": "survivalessentials:cobalt_chunk"
+
+        }
+
+        },
+
+        
+
+   
+
+    "result": {
+
+        "item": "survivalessentials:wafflemaker"
+        
+    }
+
+}

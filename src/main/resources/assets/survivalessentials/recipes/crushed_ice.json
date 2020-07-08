@@ -1,0 +1,16 @@
+{
+    "type": "forge:ore_shapeless",
+    "ingredients" :  [
+    {
+        "item": "minecraft:packed_ice"
+        },
+        {
+        "type": "forge:ore_dict",
+        "ore": "ice_crush"
+        }
+        ],
+        "result": {
+        "item": "survivalessentials:crushed_ice",
+        "count": 9
+        }
+        }

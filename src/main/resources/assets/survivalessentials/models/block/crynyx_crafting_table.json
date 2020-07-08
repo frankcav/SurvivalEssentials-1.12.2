@@ -1,0 +1,13 @@
+  
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "survivalessentials:block/crynyx_crafting_table_front",
+        "down": "survivalessentials:block/crynyx_crafting_table_top",
+        "up": "survivalessentials:block/crynyx_crafting_table_top",
+        "north": "survivalessentials:block/crynyx_crafting_table_front",
+        "east": "survivalessentials:block/crynyx_crafting_table_side",
+        "south": "survivalessentials:block/crynyx_crafting_table_side",
+        "west": "survivalessentials:block/crynyx_crafting_table_front"
+    }
+}
